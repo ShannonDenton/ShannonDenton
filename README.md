@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @ShannonDenton
-- 👀 I’m interested in learning to code using HTML/CSS, Javascript, and React!
-- 🌱 I’m currently learning Javascript and Boostrap!
+- 👋 Hi, I’m Shannon Denton
+- 👀 I use HTML/CSS, Javascript, Boostrap, and React!
+- 🌱 Forever learning about the vast field of web development.
 - 📫 Feel free to reach me via my contact form on my blog: https://totalgirlboss.com/contact-us/ !
 - 🌟 Connect with me on Linkedin! https://www.linkedin.com/in/shannon-denton/
 - 🍀 We can chat about coding or just about anything! I look forward to hearing from you.
