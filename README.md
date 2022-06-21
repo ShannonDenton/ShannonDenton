@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Shannon Denton
+- 👋 Hi, I’m Shannon Denton (check out my portfolio website: https://shannon-denton.com/)
 - 👀 I use HTML/CSS, Javascript, Boostrap, and React!
 - 🌱 Forever learning about the vast field of web development.
 - 📫 Feel free to reach me via my contact form on my blog: https://totalgirlboss.com/contact-us/ !
